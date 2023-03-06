@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346675164365",
+    "project_id": "justpics-cc9ba",
+    "storage_bucket": "justpics-cc9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346675164365:android:16fe8b9fa367f3f0e7a584",
+        "android_client_info": {
+          "package_name": "com.shubhamjain.justpics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346675164365-lcml0496kaptiil630lpgbg5fphrng86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyqOIOb2jm2_mnr41u3XGAf3wzUde_T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346675164365-lcml0496kaptiil630lpgbg5fphrng86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
