@@ -1,5 +1,5 @@
 # JustPics
 Social Media app
-![Screenshot_20230306_203501_JustPics(1)](https://user-images.githubusercontent.com/77579810/229251949-d9bfc647-03db-4722-a63c-e95619b3c739.jpg)
 
-![Screenshot_20230306_203457_JustPics(1)](https://user-images.githubusercontent.com/77579810/229252024-884e77e2-7a8c-453b-9ac1-5fcf4ba1a67f.jpg)
+![Screenshot_20230306_203501_JustPics(1)](https://user-images.githubusercontent.com/77579810/229252134-eb420782-2c6e-49f3-a5cc-7e1f7988c6e0.jpg)
+![Screenshot_20230306_203457_JustPics(1)](https://user-images.githubusercontent.com/77579810/229252137-a24f50b8-d931-42b0-bd8d-58a016735f9e.jpg)
